@@ -35,7 +35,7 @@ Paste this snippet before the closing </head> tag on your HTML template:
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
 
-Paste this snippet at the end of the <form> where you want the reCAPTCHA widget to appear:
+Paste this snippet at the end of the "form" where you want the reCAPTCHA widget to appear:
   
 <div class="g-recaptcha" data-sitekey="<<Secret Key>>"></div>
 
