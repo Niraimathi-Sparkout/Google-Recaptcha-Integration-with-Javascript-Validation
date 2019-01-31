@@ -37,7 +37,7 @@ Paste this snippet before the closing </head> tag on your HTML template:
 
 Paste this snippet at the end of the "form" where you want the reCAPTCHA widget to appear:
   
-<div class=" g-recaptchaa" data-sitekey="<<Secret Key>>"></div>
+<div class=" g-recaptcha" data-sitekey="6LfjLYgUAAAAADBUjmCKV5vBzGFK2KIgm21LtQgp"></div>
 
 Enough for frontend
 
